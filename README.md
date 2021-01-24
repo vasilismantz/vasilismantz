@@ -5,8 +5,5 @@
 A man of few words. I enjoy the process of engineering solutions to challenging problems. I mostly use react.
 </p>
 <p align="center">
-🔭 [I’m currently working on...](https://github.com/vasilismantz/work-project)
-</p>
-<p align="center">
-👯 I’m looking to collaborate on more open source projects!
+👯 I’m looking to collaborate on open source projects!
 </p>
