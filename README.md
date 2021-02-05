@@ -5,7 +5,7 @@
 A man of few words. I enjoy the process of engineering solutions to challenging problems
 </p>
 <p align="center">
-I mostly use React, Express, MySQL/MongoDB, GraphQL
+I mostly use React, Node, Express, MySQL/MongoDB, GraphQL
 </p>
 <p align="center">
 👯 I’m looking to collaborate on open source projects!
